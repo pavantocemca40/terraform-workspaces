@@ -1,8 +1,8 @@
 variable "ami" {
-    description = "AMI for EC2 instance"
- 
+  description = "AMI for EC2 instance"
+
 }
 
 variable "instance_type" {
-    description = "Instance type for EC2" 
+  description = "Instance type for EC2"
 }
